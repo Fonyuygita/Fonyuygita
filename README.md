@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate web developer with expertise in machine learning and a love for frontend development. 🚀 I enjoy creating stunning and functional websites using JavaScript, TypeScript, and a range of popular frameworks and technologies. 💻
+I'm Fonyuy Gita😁, a passionate web developer with expertise in machine learning and a love for frontend development. 🚀 I enjoy creating stunning and functional websites using JavaScript, TypeScript, and a range of popular frameworks and technologies. 💻
 
 ## Skills and Technologies 🛠️
 
