@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Fonyuygita
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋
 
-<!---
-Fonyuygita/Fonyuygita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm [Your Name], a passionate web developer with expertise in machine learning and a love for frontend development. 🚀 I enjoy creating stunning and functional websites using JavaScript, TypeScript, and a range of popular frameworks and technologies. 💻
+
+## Skills and Technologies 🛠️
+
+- **Languages:** JavaScript, TypeScript, PHP
+- **Frontend:** React, Vue.js, HTML5, CSS3, Sass
+- **Backend:** Node.js, Express.js, PHP, MongoDB, MySQL
+- **Machine Learning:** TensorFlow, Keras, scikit-learn
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Other Tools:** Git, Docker, Prisma, Drizzle
+
+## Portfolio 💼
+
+Here are some of my notable projects:
+
+### Project 1: E-commerce Website 🛒
+![E-commerce Website](/images/ecommerce.png)
+
+A full-stack e-commerce website built with React, Node.js, and MongoDB. It includes features such as product listing, shopping cart, and user authentication. 💡
+
+### Project 2: Machine Learning App 🤖
+![Machine Learning App](/images/ml-app.png)
+
+An application that leverages machine learning models to analyze and classify data. Built with Python, TensorFlow, and React, it provides a user-friendly interface for interacting with the models. 🧠
+
+## Let's Connect! 🤝
+
+I'm open to exciting freelance opportunities and collaboration. Feel free to reach out to me through the following channels:
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com) 📧
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) 💼
+- **Portfolio:** [Your Portfolio](https://your-portfolio.com) 🌐
+
+Let's create something amazing together! ✨🚀
