@@ -29,8 +29,8 @@ An application that leverages machine learning models to analyze and classify da
 
 I'm open to exciting freelance opportunities and collaboration. Feel free to reach out to me through the following channels:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com) 📧
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) 💼
-- **Portfolio:** [Your Portfolio](https://your-portfolio.com) 🌐
+- **Email:** [fonyuyjudegita@gmail.com](mailto:fonyuyjudegita@@gmail.com) 📧
+- **LinkedIn:** [@fonyuygita](https://www.linkedin.com/in/your-profile) 💼
+- **Portfolio:** [fonyuygita.com/](https://your-port) 🌐
 
 Let's create something amazing together! ✨🚀
