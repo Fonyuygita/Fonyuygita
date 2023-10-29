@@ -31,6 +31,6 @@ I'm open to exciting freelance opportunities and collaboration. Feel free to rea
 
 - **Email:** [fonyuyjudegita@gmail.com](mailto:fonyuyjudegita@@gmail.com) 📧
 - **LinkedIn:** [@fonyuygita](https://www.linkedin.com/in/your-profile) 💼
-- **Portfolio:** [fonyuygita.com/](https://your-port) 🌐
+- **Portfolio:** [fonyuygita.com/](http://portfolio-site-fonyuygita.vercel.app) 🌐
 
 Let's create something amazing together! ✨🚀
