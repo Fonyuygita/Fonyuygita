@@ -19,7 +19,8 @@ An online Telemedicine Social media web platform that help patients and people s
 - **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
 
 ### **E Commerce Website**
-![Screenshot (156)](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/f66856e7-d95a-491e-9186-37e00c812c7b)
+
+![Screenshot (157)](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/c6fd9954-40b3-4352-bb47-8b5e9fde96ec)
 
 A brief description of the project and what technologies were used.
 - **Live Demo**: View Project <!-- Replace # with the project live URL -->
