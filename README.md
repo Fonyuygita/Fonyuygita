@@ -36,6 +36,17 @@ A brief description of the project and what technologies were used.
 - **Live Demo**: View Project <!-- Replace # with the project live URL -->
 - **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
 
+
+
+### **Business Store Dashboard**
+
+![dashboard (2)](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/b9ecbf0d-027e-473e-8cc2-aa2f96e46938)
+
+
+A brief description of the project and what technologies were used.
+- **Live Demo**: View Project <!-- Replace # with the project live URL -->
+- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
+
 ## Teaching & Mentorship
 As a tech tutor, I believe in sharing knowledge and helping others grow. Here are some of the topics I teach:
 
