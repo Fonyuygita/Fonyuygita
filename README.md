@@ -11,10 +11,17 @@ I'm a full-stack MERN developer with a passion for building scalable web applica
 Here are some of the projects I've worked on:
 
 ### **Project Name 1**
+!Project Image 1 <!-- Replace # with the image URL -->
 A brief description of the project and what technologies were used.
+- **Live Demo**: View Project <!-- Replace # with the project live URL -->
+- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
 
 ### **Project Name 2**
+!Project Image 2 <!-- Replace # with the image URL -->
 A brief description of the project and what technologies were used.
+- **Live Demo**: View Project <!-- Replace # with the project live URL -->
+- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
+
 
 ## Teaching & Mentorship
 As a tech tutor, I believe in sharing knowledge and helping others grow. Here are some of the topics I teach:
