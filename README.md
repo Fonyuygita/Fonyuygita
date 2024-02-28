@@ -1,4 +1,4 @@
-# HELLO WORLD, 
+# 👋🌏💻🖥 HELLO WORLD, 
 # I am Fonyuy Gita Welcome to My GitHub Portfolio!
 
 ## About Me
