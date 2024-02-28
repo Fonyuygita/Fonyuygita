@@ -10,9 +10,9 @@ I'm a full-stack MERN developer with a passion for building scalable web applica
 ## Projects
 Here are some of the projects I've worked on:
 
-### **Project Name 1**
+### **CheckHealth Platform Project**
 ![checkHealth](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/033f683e-2d45-4004-a130-c92c8f6fceb3)
-A brief description of the project and what technologies were used.
+An online Telemedicine Social media web platform that help patients and people suffering from other diseases to connect all over the World.
 
 - **Live Demo**: View Project <!-- Replace # with the project live URL -->
 - **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
