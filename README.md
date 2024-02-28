@@ -1,36 +1,38 @@
-# Hi there! 👋
+# Welcome to My GitHub Portfolio!
 
-I'm Fonyuy Gita😁, a passionate web developer with expertise in machine learning and a love for frontend development. 🚀 I enjoy creating stunning and functional websites using JavaScript, TypeScript, and a range of popular frameworks and technologies. 💻
+## About Me
+I'm a full-stack MERN developer with a passion for building scalable web applications. I specialize in TypeScript and have extensive experience with Next.js, creating responsive designs with Tailwind CSS, Bootstrap, and SASS. When I'm not coding, I love diving into books and exploring the latest in AI.
 
-## Skills and Technologies 🛠️
+## Technologies
+> `React` `Next.js` `JavaScript (ES6+)` `TypeScript` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Bootstrap` `SASS` `Python` `AI`
 
-- **Languages:** JavaScript, TypeScript, PHP
-- **Frontend:** React, Vue.js, HTML5, CSS3, Sass
-- **Backend:** Node.js, Express.js, PHP, MongoDB, MySQL
-- **Machine Learning:** TensorFlow, Keras, scikit-learn
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Other Tools:** Git, Docker, Prisma, Drizzle
+## Projects
+Here are some of the projects I've worked on:
 
-## Portfolio 💼
+### **Project Name 1**
+A brief description of the project and what technologies were used.
 
-Here are some of my notable projects:
+### **Project Name 2**
+A brief description of the project and what technologies were used.
 
-### Project 1: E-commerce Website 🛒
-![E-commerce Website](/images/ecommerce.png)
+## Teaching & Mentorship
+As a tech tutor, I believe in sharing knowledge and helping others grow. Here are some of the topics I teach:
 
-A full-stack e-commerce website built with React, Node.js, and MongoDB. It includes features such as product listing, shopping cart, and user authentication. 💡
+- **Web Development** with the MERN stack
+- **Introduction to AI** with Python
+- **Advanced JavaScript** and TypeScript concepts
 
-### Project 2: Machine Learning App 🤖
-![Machine Learning App](/images/ml-app.png)
+## Reading List
+I'm an avid reader, and here are some of my favorite books:
 
-An application that leverages machine learning models to analyze and classify data. Built with Python, TensorFlow, and React, it provides a user-friendly interface for interacting with the models. 🧠
+- **Book Title 1** - A brief note on why I love this book.
+- **Book Title 2** - A brief note on why I love this book.
 
-## Let's Connect! 🤝
+## Let's Connect!
+Feel free to reach out to me for collaboration or mentorship.
 
-I'm open to exciting freelance opportunities and collaboration. Feel free to reach out to me through the following channels:
+- **LinkedIn**
+- **Twitter**
+- **Email**
 
-- **Email:** [fonyuyjudegita@gmail.com](mailto:fonyuyjudegita@@gmail.com) 📧
-- **LinkedIn:** [@fonyuygita](https://www.linkedin.com/in/your-profile) 💼
-- **Portfolio:** [fonyuygita.com/](http://portfolio-site-fonyuygita.vercel.app) 🌐
-
-Let's create something amazing together! ✨🚀
+Thank you for visiting my portfolio!
