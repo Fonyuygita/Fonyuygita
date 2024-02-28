@@ -1,5 +1,6 @@
 # 👋🌏💻🖥 HELLO WORLD, 
 # I am Fonyuy Gita Welcome to My GitHub Portfolio!
+## portfolio Still on construction please
 
 ## About Me
 I'm a full-stack MERN developer with a passion for building scalable web applications. I specialize in TypeScript and have extensive experience with Next.js, creating responsive designs with Tailwind CSS, Bootstrap, and SASS. When I'm not coding, I love diving into books and exploring the latest in AI.
@@ -17,12 +18,22 @@ An online Telemedicine Social media web platform that help patients and people s
 - **Live Demo**: View Project <!-- Replace # with the project live URL -->
 - **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
 
-### **Project Name 2**
-!Project Image 2 <!-- Replace # with the image URL -->
+### **E Commerce Website**
+![Screenshot (156)](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/f66856e7-d95a-491e-9186-37e00c812c7b)
+
 A brief description of the project and what technologies were used.
 - **Live Demo**: View Project <!-- Replace # with the project live URL -->
 - **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
 
+
+
+### **Platform to find coding and tech resources**
+![Screenshot (156)](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/0538ab61-8f32-4adc-b761-dafdc20389a5)
+
+
+A brief description of the project and what technologies were used.
+- **Live Demo**: View Project <!-- Replace # with the project live URL -->
+- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
 
 ## Teaching & Mentorship
 As a tech tutor, I believe in sharing knowledge and helping others grow. Here are some of the topics I teach:
