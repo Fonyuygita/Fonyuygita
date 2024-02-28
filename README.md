@@ -5,7 +5,17 @@
 I'm a full-stack MERN developer with a passion for building scalable web applications. I specialize in TypeScript and have extensive experience with Next.js, creating responsive designs with Tailwind CSS, Bootstrap, and SASS. When I'm not coding, I love diving into books and exploring the latest in AI.
 
 ## Technologies
-> `React` `Next.js` `JavaScript (ES6+)` `TypeScript` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Bootstrap` `SASS` `Python` `AI`
+!React `React`
+!Next.js `Next.js`
+!JavaScript `JavaScript (ES6+)`
+!TypeScript `TypeScript`
+!Node.js `Node.js`
+!Express `Express`
+!MongoDB `MongoDB`
+!Tailwind CSS `Tailwind CSS`
+!Bootstrap `Bootstrap`
+!SASS `SASS`
+!Python 
 
 ## Projects
 Here are some of the projects I've worked on:
