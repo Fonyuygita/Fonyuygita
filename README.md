@@ -47,6 +47,40 @@ A brief description of the project and what technologies were used.
 - **Live Demo**: View Project <!-- Replace # with the project live URL -->
 - **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
 
+
+
+### **Nextjs 14 Stunning Dashboard**
+
+
+![Screenshot 2023-11-17 073403](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/2a8d4994-1f15-492c-8f68-18c1666824f4)
+
+
+A brief description of the project and what technologies were used.
+- **Live Demo**: View Project <!-- Replace # with the project live URL -->
+- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
+
+
+
+### **ChatCmd **
+
+![Screenshot 2023-11-11 075556](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/9bc693bd-43f9-4db5-82fd-6343162d96c2)
+
+
+A chatbot that runs on the t erminal for developers.
+- **Live Demo**: View Project <!-- Replace # with the project live URL -->
+- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
+
+  
+
+### **Stunning developer portfolio with  dark and light theme**
+
+
+![Blank 2 Grids Collage](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/63a9ebc8-e670-4690-8e6d-d10e52a6456f)
+
+A brief description of the project and what technologies were used.
+- **Live Demo**: View Project <!-- Replace # with the project live URL -->
+- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
+
 ## Teaching & Mentorship
 As a tech tutor, I believe in sharing knowledge and helping others grow. Here are some of the topics I teach:
 
