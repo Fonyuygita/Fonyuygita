@@ -39,8 +39,10 @@ An online Telemedicine Social media web platform that help patients and people s
 ![Screenshot (157)](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/c6fd9954-40b3-4352-bb47-8b5e9fde96ec)
 
 A brief description of the project and what technologies were used.
-- **Live Demo**: View Project <!-- Replace # with the project live URL -->
-- **Source Code**: View Code <!-- Replace # with the GitHub repository URL -->
+
+
+   [![Go Live](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logoColor=white&logo=portfolio&logoWidth=20&logoHeight=20&labelPadding=2px)](https://fonyuygita.vercel.app)
+   [![Source Code](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)](https://twitter.com/fonyuyjude1)
 
 
 
