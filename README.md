@@ -2,7 +2,8 @@
 # I am Fonyuy Gita Welcome to My GitHub Portfolio!
 ## profile Still on construction please
 
-![AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/16a8fae7-7a67-4149-8fa4-15958f8d8b2a)
+
+![me-gita](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/75e9a219-7c83-454d-b78d-8b7973412f0a)
 
 
 
