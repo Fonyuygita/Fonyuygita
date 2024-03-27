@@ -3,7 +3,7 @@
 ## profile Still on construction please
 
 
-![me-gita](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/75e9a219-7c83-454d-b78d-8b7973412f0a)
+![fonyuygita](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/a4035a19-99ef-4ea6-b469-8da49d67e3cf)
 
 
 
