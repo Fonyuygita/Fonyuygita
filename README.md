@@ -22,7 +22,7 @@ I'm a full-stack MERN developer with a passion for building scalable web applica
 
 ## Tech Stack
 
-> `React` `Next.js` `JavaScript (ES6+)` `TypeScript` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Bootstrap` `SASS` `Python` `AI` "C and C++" "Mathematics", "THREEJS (Virtual Reality)", "Machine Learnin", "React Natuve", "Next Auth", "Web Sockets"
+> `React` `Next.js` `JavaScript (ES6+)` `TypeScript` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Bootstrap` `SASS` `Python` `AI`, `C and C++" "Mathematics`, `THREEJS (Virtual Reality)`, `Machine Learnin`, `React Natuve`, `Next Auth`, `Web Sockets`
 
 ## Projects
 Here are some of the projects I've worked on:
