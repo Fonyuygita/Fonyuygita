@@ -2,6 +2,10 @@
 # I am Fonyuy Gita Welcome to My GitHub Portfolio!
 ## profile Still on construction please
 
+![AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg](https://github.com/Fonyuygita/Fonyuygita/assets/89413571/16a8fae7-7a67-4149-8fa4-15958f8d8b2a)
+
+
+
 ## About Me
 I'm a full-stack MERN developer with a passion for building scalable web applications. I specialize in TypeScript and have extensive experience with Next.js, creating responsive designs with Tailwind CSS, Bootstrap, and SASS. When I'm not coding, I love diving into books and exploring the latest in AI.
 
