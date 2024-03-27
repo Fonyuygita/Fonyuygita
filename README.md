@@ -23,6 +23,8 @@ I'm a full-stack MERN developer with a passion for building scalable web applica
 ## Tech Stack
 
  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=white&logo=html5&logoWidth=20&logoHeight=20&labelPadding=2px)]()
+ [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=white&logo=html5&logoWidth=20&logoHeight=20&labelPadding=2px)]()
+ 
  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript&logoWidth=20&logoHeight=20&labelPadding=2px)]()
  [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=white&logo=react&logoWidth=20&logoHeight=20&labelPadding=2px)]()
